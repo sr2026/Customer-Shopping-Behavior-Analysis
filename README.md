@@ -1,2 +1,2 @@
-# Customer-Shopping-Behavior-Analysis
-Analysed customer shopping behavior
+# Customer-Shopping-Behaviour-Analysis
+Analysed customer shopping behaviour
