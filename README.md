@@ -1,4 +1,4 @@
-#Customer Shopping Behavior Analysis Dashboard
+#Customer Shopping Behavior Analysis Dashboard - DATA ANALYTICS PROJECT
 
 📌 Overview
 
